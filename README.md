@@ -1,4 +1,5 @@
-![Simple Quote LinkedIn Post Header](https://user-images.githubusercontent.com/68249198/117731528-e0942680-b1b3-11eb-8fbe-91c5650886c5.png)
+!
+<img src='Simple Quote LinkedIn Post Header.png' style = 'width:1100px;height:700px'/>
 ### Hi there 👋
 
 <!--
