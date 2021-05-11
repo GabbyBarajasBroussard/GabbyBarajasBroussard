@@ -8,7 +8,7 @@
 - ⚡ Fun fact: ... If I had to be trapped in a movie or a video game for a day, it would be Animal Crossing! (Check out my natural language processing project while you are here 😉😉)
 
 [![Gabby's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabbybarajasbroussard)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabbybarajasbroussard&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **GabbyBarajasBroussard/GabbyBarajasBroussard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
