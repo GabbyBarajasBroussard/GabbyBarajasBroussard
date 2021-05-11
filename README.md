@@ -1,6 +1,7 @@
 !
 <img src='Simple Quote LinkedIn Post Header.png' style = 'width:1100px;height:700px'/>
 ### Hi there 👋
+[![Gabby's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabbybarajasbroussard)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **GabbyBarajasBroussard/GabbyBarajasBroussard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
